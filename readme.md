@@ -2,7 +2,7 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
-ReactJS website for the Jaldi.io project connecting families and providing multiple functionalities.
+ReactJS based calender which can be added into any website.
 
 
 
